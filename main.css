@@ -1,3 +1,52 @@
 body {
   background-color: aquamarine;
 }
+.name-as-title {
+  text-align: center;
+}
+#lively {
+  font-family: "Times New Roman", sans-serif;
+  background-color: #ffb402;
+  color: #051c2c;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px 10px 30px 10px;
+  text-align: center;
+}
+#amazon {
+  font-family: "Oswald", sans-serif;
+  background-color: #161c24;
+  color: white;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px 10px 30px 10px;
+  text-align: center;
+}
+#lyft {
+  font-family: "Poppins", sans-serif;
+  color: #ff00c0;
+  background-color: #f4f4fa;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px 10px 30px 10px;
+  text-align: center;
+}
+#lively > .article-headings {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+  margin: 10px;
+  padding: 5px;
+}
+#amazon > .article-headings {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+  margin: 10px;
+  padding: 5px;
+}
+
+#lyft > .article-headings {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+  margin: 10px;
+  padding: 5px;
+}
